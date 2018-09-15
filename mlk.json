@@ -1,0 +1,2670 @@
+{
+  "monologues": [
+    {
+      "speaker": 0,
+      "elements": [
+        {
+          "type": "text",
+          "value": "Again",
+          "ts": 0.51,
+          "end_ts": 0.98,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "on",
+          "ts": 0.99,
+          "end_ts": 1.1099999999999999,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 1.1099999999999999,
+          "end_ts": 1.17,
+          "confidence": 0.7
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "game",
+          "ts": 1.17,
+          "end_ts": 1.74,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "we",
+          "ts": 2.94,
+          "end_ts": 3.1399999999999997,
+          "confidence": 0.81
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "must",
+          "ts": 3.15,
+          "end_ts": 3.3899999999999997,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "rise",
+          "ts": 3.3899999999999997,
+          "end_ts": 3.9299999999999997,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 3.96,
+          "end_ts": 4.1099999999999994,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 4.1099999999999994,
+          "end_ts": 4.2299999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "majestic",
+          "ts": 4.2299999999999995,
+          "end_ts": 4.83,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "heights",
+          "ts": 4.83,
+          "end_ts": 5.58,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 6.35,
+          "end_ts": 6.5,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "meeting",
+          "ts": 6.51,
+          "end_ts": 6.96,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "physical",
+          "ts": 6.96,
+          "end_ts": 7.5299999999999994,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "force",
+          "ts": 7.5299999999999994,
+          "end_ts": 7.9799999999999995,
+          "confidence": 0.97
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "with",
+          "ts": 7.9799999999999995,
+          "end_ts": 8.17,
+          "confidence": 0.67
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "soul",
+          "ts": 8.17,
+          "end_ts": 8.6399999999999988,
+          "confidence": 0.67
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "for",
+          "ts": 8.6399999999999988,
+          "end_ts": 8.94,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "us",
+          "ts": 8.94,
+          "end_ts": 9.27,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "but",
+          "ts": 10.1,
+          "end_ts": 10.299999999999999,
+          "confidence": 0.87
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "marvelous",
+          "ts": 10.32,
+          "end_ts": 11.07,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "new",
+          "ts": 11.07,
+          "end_ts": 11.309999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "militancy",
+          "ts": 11.309999999999999,
+          "end_ts": 12.209999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "ritchason",
+          "ts": 13.219999999999999,
+          "end_ts": 13.76,
+          "confidence": 0.61
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "golf",
+          "ts": 13.85,
+          "end_ts": 14.209999999999999,
+          "confidence": 0.77
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "The",
+          "ts": 14.219999999999999,
+          "end_ts": 14.309999999999999,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Negro",
+          "ts": 14.309999999999999,
+          "end_ts": 14.729999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "community",
+          "ts": 14.729999999999999,
+          "end_ts": 15.42,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "must",
+          "ts": 16.65,
+          "end_ts": 16.919999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "not",
+          "ts": 16.919999999999998,
+          "end_ts": 17.16,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "lead",
+          "ts": 17.16,
+          "end_ts": 17.43,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "us",
+          "ts": 17.43,
+          "end_ts": 17.669999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 17.669999999999998,
+          "end_ts": 17.91,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 17.91,
+          "end_ts": 18.06,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "distrust",
+          "ts": 18.06,
+          "end_ts": 18.779999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 18.779999999999998,
+          "end_ts": 18.869999999999997,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "all",
+          "ts": 18.869999999999997,
+          "end_ts": 19.22,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "right",
+          "ts": 19.259999999999998,
+          "end_ts": 19.55,
+          "confidence": 0.79
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "people",
+          "ts": 19.56,
+          "end_ts": 20.13,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "for",
+          "ts": 20.459999999999997,
+          "end_ts": 20.64,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "many",
+          "ts": 20.64,
+          "end_ts": 20.939999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 20.939999999999998,
+          "end_ts": 21.06,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "our",
+          "ts": 21.06,
+          "end_ts": 21.3,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "right",
+          "ts": 21.3,
+          "end_ts": 21.599999999999998,
+          "confidence": 0.59
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Bravo's",
+          "ts": 21.599999999999998,
+          "end_ts": 22.14,
+          "confidence": 0.59
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 22.14,
+          "end_ts": 22.32,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "evidenced",
+          "ts": 22.32,
+          "end_ts": 22.86,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "by",
+          "ts": 22.86,
+          "end_ts": 23.099999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "their",
+          "ts": 23.11,
+          "end_ts": 23.36,
+          "confidence": 0.51
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "presence",
+          "ts": 23.369999999999997,
+          "end_ts": 23.91,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "here",
+          "ts": 23.91,
+          "end_ts": 24.15,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "today",
+          "ts": 24.15,
+          "end_ts": 24.86,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "have",
+          "ts": 25.08,
+          "end_ts": 25.29,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "come",
+          "ts": 25.29,
+          "end_ts": 25.56,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 25.56,
+          "end_ts": 25.68,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "realize",
+          "ts": 25.68,
+          "end_ts": 26.349999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 26.349999999999998,
+          "end_ts": 26.52,
+          "confidence": 0.82
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 26.52,
+          "end_ts": 26.82,
+          "confidence": 0.77
+        },
+        {
+          "type": "punct",
+          "value": " "
+        }
+      ]
+    },
+    {
+      "speaker": 1,
+      "elements": [
+        {
+          "type": "text",
+          "value": "and",
+          "ts": 27.08,
+          "end_ts": 27.24,
+          "confidence": 0.54
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "has",
+          "ts": 27.259999999999998,
+          "end_ts": 27.43,
+          "confidence": 0.7
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "caught",
+          "ts": 27.439999999999998,
+          "end_ts": 27.77,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "up",
+          "ts": 27.77,
+          "end_ts": 27.889999999999997,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "with",
+          "ts": 27.889999999999997,
+          "end_ts": 28.04,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Bob",
+          "ts": 28.049999999999997,
+          "end_ts": 28.709999999999997,
+          "confidence": 0.63
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        }
+      ]
+    },
+    {
+      "speaker": 0,
+      "elements": [
+        {
+          "type": "text",
+          "value": "They",
+          "ts": 38.97,
+          "end_ts": 39.22,
+          "confidence": 0.91
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "have",
+          "ts": 39.25,
+          "end_ts": 39.48,
+          "confidence": 0.97
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "come",
+          "ts": 39.48,
+          "end_ts": 39.839999999999996,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 39.839999999999996,
+          "end_ts": 39.989999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "realize",
+          "ts": 39.989999999999995,
+          "end_ts": 40.68,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 40.68,
+          "end_ts": 40.78,
+          "confidence": 0.45
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 40.78,
+          "end_ts": 41.1,
+          "confidence": 0.62
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "freedom",
+          "ts": 41.11,
+          "end_ts": 41.519999999999996,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "is",
+          "ts": 41.519999999999996,
+          "end_ts": 41.699999999999996,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "inextricably",
+          "ts": 41.699999999999996,
+          "end_ts": 42.69,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "bound",
+          "ts": 42.69,
+          "end_ts": 43.44,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 43.53,
+          "end_ts": 43.68,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "our",
+          "ts": 43.68,
+          "end_ts": 44.01,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "freedom",
+          "ts": 44.01,
+          "end_ts": 44.58,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 45.21,
+          "end_ts": 45.48,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "cannot",
+          "ts": 45.48,
+          "end_ts": 46.05,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "walk",
+          "ts": 46.62,
+          "end_ts": 47.04,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "alone",
+          "ts": 47.04,
+          "end_ts": 47.669999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "and",
+          "ts": 48.449999999999996,
+          "end_ts": 48.61,
+          "confidence": 0.9
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 48.69,
+          "end_ts": 48.97,
+          "confidence": 0.86
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "we",
+          "ts": 49.04,
+          "end_ts": 49.25,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "walk",
+          "ts": 49.25,
+          "end_ts": 49.79,
+          "confidence": 0.83
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "we",
+          "ts": 51.18,
+          "end_ts": 51.419999999999995,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "must",
+          "ts": 51.419999999999995,
+          "end_ts": 51.72,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "make",
+          "ts": 51.72,
+          "end_ts": 51.989999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 51.989999999999995,
+          "end_ts": 52.11,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "pledge",
+          "ts": 52.11,
+          "end_ts": 52.68,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 52.68,
+          "end_ts": 52.86,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "we",
+          "ts": 52.86,
+          "end_ts": 53.339999999999996,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "shall",
+          "ts": 53.339999999999996,
+          "end_ts": 53.64,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "always",
+          "ts": 53.64,
+          "end_ts": 54.629999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "march",
+          "ts": 54.93,
+          "end_ts": 55.44,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "ahead",
+          "ts": 55.44,
+          "end_ts": 56.129999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 57.36,
+          "end_ts": 57.629999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "cannot",
+          "ts": 57.629999999999995,
+          "end_ts": 58.11,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "turn",
+          "ts": 58.11,
+          "end_ts": 58.47,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "back",
+          "ts": 58.47,
+          "end_ts": 59.25,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "now",
+          "ts": 60.419999999999995,
+          "end_ts": 60.72,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "Those",
+          "ts": 60.72,
+          "end_ts": 61.199999999999996,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "who",
+          "ts": 61.199999999999996,
+          "end_ts": 61.32,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "asking",
+          "ts": 61.32,
+          "end_ts": 61.98,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 61.98,
+          "end_ts": 62.099999999999994,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "devotees",
+          "ts": 62.099999999999994,
+          "end_ts": 62.82,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 62.82,
+          "end_ts": 62.94,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "civil",
+          "ts": 62.94,
+          "end_ts": 63.3,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "rights",
+          "ts": 63.3,
+          "end_ts": 63.989999999999995,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "when",
+          "ts": 65.25,
+          "end_ts": 65.55,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "will",
+          "ts": 65.55,
+          "end_ts": 65.759999999999991,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "you",
+          "ts": 65.759999999999991,
+          "end_ts": 66.0,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 66.0,
+          "end_ts": 66.27,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 66.27,
+          "end_ts": 67.259999999999991,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": "? "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 68.61,
+          "end_ts": 68.85,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "can",
+          "ts": 68.85,
+          "end_ts": 69.06,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "never",
+          "ts": 69.06,
+          "end_ts": 69.36,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 69.36,
+          "end_ts": 69.539999999999992,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 69.539999999999992,
+          "end_ts": 70.44,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 70.44,
+          "end_ts": 70.56,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "long",
+          "ts": 70.56,
+          "end_ts": 70.89,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 70.89,
+          "end_ts": 71.07,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 71.07,
+          "end_ts": 71.13,
+          "confidence": 0.95
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Negro",
+          "ts": 71.13,
+          "end_ts": 71.58,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "is",
+          "ts": 71.58,
+          "end_ts": 71.759999999999991,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 71.759999999999991,
+          "end_ts": 71.88,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "victim",
+          "ts": 72.24,
+          "end_ts": 72.75,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 72.75,
+          "end_ts": 72.929999999999993,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 72.929999999999993,
+          "end_ts": 73.05,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "unspeakable",
+          "ts": 73.05,
+          "end_ts": 73.95,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "horrors",
+          "ts": 73.95,
+          "end_ts": 74.69,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 74.94,
+          "end_ts": 75.149999999999991,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "police",
+          "ts": 75.149999999999991,
+          "end_ts": 75.57,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "brutality",
+          "ts": 75.57,
+          "end_ts": 76.41,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 77.34,
+          "end_ts": 77.52,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "can",
+          "ts": 77.52,
+          "end_ts": 77.7,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "never",
+          "ts": 77.7,
+          "end_ts": 78.0,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 78.0,
+          "end_ts": 78.179999999999993,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 78.179999999999993,
+          "end_ts": 79.11,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 80.8,
+          "end_ts": 81.009999999999991,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "long",
+          "ts": 81.009999999999991,
+          "end_ts": 81.34,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 81.34,
+          "end_ts": 81.49,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "I",
+          "ts": 81.49,
+          "end_ts": 81.759999999999991,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "bought",
+          "ts": 81.759999999999991,
+          "end_ts": 82.11999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "is",
+          "ts": 82.11999999999999,
+          "end_ts": 82.45,
+          "confidence": 0.71
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "heavy",
+          "ts": 82.45,
+          "end_ts": 82.86999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "with",
+          "ts": 82.86999999999999,
+          "end_ts": 83.08,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 83.08,
+          "end_ts": 83.2,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "fatigue",
+          "ts": 83.2,
+          "end_ts": 83.89,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 83.89,
+          "end_ts": 84.009999999999991,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "travel",
+          "ts": 84.009999999999991,
+          "end_ts": 84.67,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "cannot",
+          "ts": 85.6,
+          "end_ts": 86.05,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "gain",
+          "ts": 86.05,
+          "end_ts": 86.47,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "lodging",
+          "ts": 86.47,
+          "end_ts": 87.08,
+          "confidence": 0.62
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "in",
+          "ts": 87.08,
+          "end_ts": 87.22,
+          "confidence": 0.93
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 87.22,
+          "end_ts": 87.31,
+          "confidence": 0.95
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "motel",
+          "ts": 87.32,
+          "end_ts": 87.97,
+          "confidence": 0.97
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 87.97,
+          "end_ts": 88.11999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 88.11999999999999,
+          "end_ts": 88.24,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "highways",
+          "ts": 88.24,
+          "end_ts": 88.929999999999993,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "and",
+          "ts": 88.929999999999993,
+          "end_ts": 89.05,
+          "confidence": 0.83
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 89.05,
+          "end_ts": 89.14,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "hotels",
+          "ts": 89.14,
+          "end_ts": 89.8,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "with",
+          "ts": 89.8,
+          "end_ts": 89.92,
+          "confidence": 0.85
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 89.92,
+          "end_ts": 90.009999999999991,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "citizens",
+          "ts": 90.009999999999991,
+          "end_ts": 90.56,
+          "confidence": 0.83
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 95.74,
+          "end_ts": 96.039999999999992,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "cannot",
+          "ts": 96.039999999999992,
+          "end_ts": 96.57,
+          "confidence": 0.97
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 96.58,
+          "end_ts": 96.789999999999992,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 96.789999999999992,
+          "end_ts": 97.81,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 98.44,
+          "end_ts": 98.61999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "long",
+          "ts": 98.61999999999999,
+          "end_ts": 98.949999999999989,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 98.949999999999989,
+          "end_ts": 99.13,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "the",
+          "ts": 99.13,
+          "end_ts": 99.22,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "negroes",
+          "ts": 99.25,
+          "end_ts": 99.929999999999993,
+          "confidence": 0.51
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "basic",
+          "ts": 99.94,
+          "end_ts": 100.44999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "mobility",
+          "ts": 100.44999999999999,
+          "end_ts": 101.17,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "is",
+          "ts": 101.17,
+          "end_ts": 101.32,
+          "confidence": 0.91
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "from",
+          "ts": 101.32,
+          "end_ts": 101.58999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 101.58999999999999,
+          "end_ts": 101.67999999999999,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "smaller",
+          "ts": 101.67999999999999,
+          "end_ts": 102.3,
+          "confidence": 0.84
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "get",
+          "ts": 102.31,
+          "end_ts": 102.56,
+          "confidence": 0.92
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "told",
+          "ts": 102.56,
+          "end_ts": 102.81,
+          "confidence": 0.84
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 102.85,
+          "end_ts": 103.0,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 103.0,
+          "end_ts": 103.08999999999999,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "larger",
+          "ts": 103.08999999999999,
+          "end_ts": 103.6,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "one",
+          "ts": 103.6,
+          "end_ts": 104.06,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We",
+          "ts": 105.22,
+          "end_ts": 105.42999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "can",
+          "ts": 105.42999999999999,
+          "end_ts": 105.64,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "never",
+          "ts": 105.64,
+          "end_ts": 105.94,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 105.94,
+          "end_ts": 106.14999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 106.14999999999999,
+          "end_ts": 107.08,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 107.55999999999999,
+          "end_ts": 107.77,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "long",
+          "ts": 107.77,
+          "end_ts": 108.1,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 108.1,
+          "end_ts": 108.25,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "I",
+          "ts": 108.25,
+          "end_ts": 108.49,
+          "confidence": 0.88
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "was",
+          "ts": 108.91,
+          "end_ts": 109.02,
+          "confidence": 0.35
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "stripped",
+          "ts": 109.14,
+          "end_ts": 109.58999999999999,
+          "confidence": 0.97
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "of",
+          "ts": 109.58999999999999,
+          "end_ts": 109.71,
+          "confidence": 0.87
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 109.72999999999999,
+          "end_ts": 110.05,
+          "confidence": 0.55
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "selfhood",
+          "ts": 110.19,
+          "end_ts": 110.74,
+          "confidence": 0.55
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "and",
+          "ts": 110.77,
+          "end_ts": 110.89,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "rob",
+          "ts": 110.89,
+          "end_ts": 111.32,
+          "confidence": 0.66
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 111.32,
+          "end_ts": 111.44,
+          "confidence": 0.62
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "that",
+          "ts": 111.44,
+          "end_ts": 111.75999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "dignity",
+          "ts": 111.75999999999999,
+          "end_ts": 112.44999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "by",
+          "ts": 112.61999999999999,
+          "end_ts": 112.92,
+          "confidence": 0.88
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "sign",
+          "ts": 112.92999999999999,
+          "end_ts": 113.64999999999999,
+          "confidence": 0.59
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "stating",
+          "ts": 113.64999999999999,
+          "end_ts": 114.19,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "for",
+          "ts": 114.19,
+          "end_ts": 114.36999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "reits",
+          "ts": 114.36999999999999,
+          "end_ts": 114.75999999999999,
+          "confidence": 0.73
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "own",
+          "ts": 114.75999999999999,
+          "end_ts": 115.08999999999999,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "damn",
+          "ts": 115.08999999999999,
+          "end_ts": 115.3,
+          "confidence": 0.27
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "We've",
+          "ts": 122.36,
+          "end_ts": 122.63,
+          "confidence": 0.92
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "been",
+          "ts": 122.63,
+          "end_ts": 122.78,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "not",
+          "ts": 122.78,
+          "end_ts": 123.02,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "be",
+          "ts": 123.02,
+          "end_ts": 123.22999999999999,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "satisfied",
+          "ts": 123.22999999999999,
+          "end_ts": 124.07,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ". "
+        },
+        {
+          "type": "text",
+          "value": "As",
+          "ts": 124.07,
+          "end_ts": 124.19,
+          "confidence": 0.93
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "long",
+          "ts": 124.19,
+          "end_ts": 124.55,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "as",
+          "ts": 124.55,
+          "end_ts": 124.72999999999999,
+          "confidence": 0.95
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 124.72999999999999,
+          "end_ts": 124.82,
+          "confidence": 0.98
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Negro",
+          "ts": 124.82,
+          "end_ts": 125.50999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "in",
+          "ts": 125.75,
+          "end_ts": 125.99,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Mississippi",
+          "ts": 125.99,
+          "end_ts": 126.8,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "cannot",
+          "ts": 126.8,
+          "end_ts": 127.25,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "vote",
+          "ts": 127.25,
+          "end_ts": 127.75999999999999,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": ", "
+        },
+        {
+          "type": "text",
+          "value": "and",
+          "ts": 127.85,
+          "end_ts": 128.06,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "a",
+          "ts": 128.06,
+          "end_ts": 128.12,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "Negro",
+          "ts": 128.12,
+          "end_ts": 128.51,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "in",
+          "ts": 128.51,
+          "end_ts": 128.63,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "New York",
+          "ts": 128.63,
+          "end_ts": 129.14,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "believes",
+          "ts": 129.14,
+          "end_ts": 129.65,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "he",
+          "ts": 129.65,
+          "end_ts": 129.89,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "has",
+          "ts": 129.89,
+          "end_ts": 130.19,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "nothing",
+          "ts": 130.19,
+          "end_ts": 130.73,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "for",
+          "ts": 130.73,
+          "end_ts": 130.97,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "which",
+          "ts": 130.97,
+          "end_ts": 131.32999999999998,
+          "confidence": 1.0
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "to",
+          "ts": 131.32999999999998,
+          "end_ts": 131.48,
+          "confidence": 0.99
+        },
+        {
+          "type": "punct",
+          "value": " "
+        },
+        {
+          "type": "text",
+          "value": "vote",
+          "ts": 131.48,
+          "end_ts": 131.84,
+          "confidence": 0.96
+        },
+        {
+          "type": "punct",
+          "value": "."
+        }
+      ]
+    }
+  ]
+}
