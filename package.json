@@ -1,0 +1,23 @@
+{
+  "name": "protospeech",
+  "version": "1.0.0",
+  "description": "Speach to programing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Two-to-the-Two/Protospeech.git"
+  },
+  "keywords": [
+    "node",
+    "nlp"
+  ],
+  "author": "Jorge-Nario, Warren-Partridge, NoahNaiman, mhendrick98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Two-to-the-Two/Protospeech/issues"
+  },
+  "homepage": "https://github.com/Two-to-the-Two/Protospeech#readme"
+}
