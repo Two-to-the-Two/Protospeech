@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Two-to-the-Two/Protospeech/issues"
   },
-  "homepage": "https://github.com/Two-to-the-Two/Protospeech#readme"
+  "homepage": "https://github.com/Two-to-the-Two/Protospeech#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
