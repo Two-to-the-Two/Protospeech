@@ -3,11 +3,13 @@ var exphbs = require("express-handlebars");
 var bodyParser = require("body-parser");
 var BinaryServer = require("binaryjs").BinaryServer;
 var fs = require("fs");
+var https = require("https");
 var wav = require("wav");
-var exec = require('child_process').exec;
+var exec = require("child_process").exec;
 
 const Lame = require("node-lame").Lame;
 var request = require("request");
+var requests = require("requests");
 
 var port = 3000;
 var outFile = "demo.wav";
@@ -109,21 +111,42 @@ binaryServer.on("connection", function(client) {
   });
 
   client.on("stream", function(stream, meta) {
+    var x = "";
     console.log("new stream");
     stream.pipe(fileWriter);
 
     stream.on("end", function() {
       fileWriter.end();
       console.log("wrote to file " + outFile);
-        var yourscript = exec('sh post.sh',
-            (error, stdout, stderr) => {
-            console.log(`${stdout}`);
-        console.log(`${stderr}`);
+      var yourScript = exec("sh post.sh", (error, stdout, stderr) => {
+        x = `${stdout}`;
+        console.log(JSON.parse(x));
+        x = JSON.parse(x).id;
+        console.log(x);
         if (error !== null) {
-            console.log(`exec error: ${error}`);
+          console.log(`exec error: ${error}`);
         }
+      });
     });
-      /*
+
+    setTimeout(function() {
+      myheaders = {
+        Authorization:
+          "Bearer 01Ci_bKCjum7QV5VhzQjf2W-U1gJJBbVxiZPXy7X88yaU66AoTHiEeVGuRFrt7-C3jUAwdDXwY02qk2_RxL6GcqGq4LYg"
+      };
+      r = request
+        .get(
+          "https://api.rev.ai/revspeech/v1beta/jobs/" + x,
+          (headers = myheaders)
+        )
+        .on("response", function(response) {
+          console.log(response.statusCode); // 200
+          console.log(response.headers["content-type"]); // 'image/png'
+        });
+      console.log(r);
+    }, 10000);
+
+    /*
       request.post(
         {
           headers: {
@@ -141,6 +164,5 @@ binaryServer.on("connection", function(client) {
         }
       );
       */
-    });
   });
 });
