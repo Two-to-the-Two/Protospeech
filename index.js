@@ -15,8 +15,14 @@ app.get("/", function(req, res) {
 });
 
 app.post('/dialogflow', function(req, res) {
-	let dfText = req.body.queryResult.queryText;
-	let dfParams = req.body.queryResult.parameters;
+	console.log(req);
+	// BELOW: Uncomment these if we're using Dialogflow's V2 API
+	// let dfText = req.body.queryResult.queryText;
+	// let dfParams = req.body.queryResult.parameters;
+
+	// BELOW: This is the OG V1 version
+	let dfText = req.body.result.resolvedQuery;
+	let dfParams = req.body.result.parameters;
 
 	console.log("The user said: " + dfText);
 	// console.log(dfParams);
