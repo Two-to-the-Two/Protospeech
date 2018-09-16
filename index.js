@@ -2,10 +2,15 @@ var express = require("express");
 var exphbs = require("express-handlebars");
 var bodyParser = require("body-parser");
 var BinaryServer = require("binaryjs").BinaryServer;
-var fs = require("fs");
 var https = require("https");
 var wav = require("wav");
 var exec = require("child_process").exec;
+
+const fs = require('fs');
+const speech = require('@google-cloud/speech');
+
+const client = new speech.SpeechClient();
+
 
 const Lame = require("node-lame").Lame;
 var request = require("request");
@@ -118,17 +123,40 @@ binaryServer.on("connection", function(client) {
     stream.on("end", function() {
       fileWriter.end();
       console.log("wrote to file " + outFile);
-      var yourScript = exec("sh post.sh", (error, stdout, stderr) => {
-        x = `${stdout}`;
-        console.log(JSON.parse(x));
-        x = JSON.parse(x).id;
-        console.log(x);
-        if (error !== null) {
-          console.log(`exec error: ${error}`);
-        }
-      });
-    });
+      const filename = "./demo.wav";
+      const encoding = 'LINEAR16';
+      const sampleRateHertz = 16000;
+      const languageCode = 'en-US';
 
+        const config = {
+            encoding: encoding,
+            sampleRateHertz: sampleRateHertz,
+            languageCode: languageCode,
+        };
+        const audio = {
+            content: fs.readFileSync(filename).toString('base64'),
+        };
+
+        const request = {
+            config: config,
+            audio: audio,
+        };
+
+// Detects speech in the audio file
+        client
+            .recognize(request)
+            .then(data => {
+                const response = data[0];
+                const transcription = response.results
+                    .map(result => result.alternatives[0].transcript)
+                    .join('\n');
+                console.log(`Transcription: `, transcription);
+            })
+            .catch(err => {
+                console.error('ERROR:', err);
+            });
+    });
+/*
     setTimeout(function() {
       myheaders = {
         Authorization:
@@ -146,7 +174,7 @@ binaryServer.on("connection", function(client) {
       console.log(r);
     }, 10000);
 
-    /*
+*/    /*
       request.post(
         {
           headers: {
