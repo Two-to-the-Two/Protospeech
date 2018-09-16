@@ -4,24 +4,20 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 
 <script>
+// These are global scope
+var navbar = "";
+var body = "<div><h1>Wassup</h1</div>";
+var footer = "";
+var curr = navbar + body + footer;
+
 $(document).ready(function(){
   var script1 = "<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin= 'anonymous'>";
   var script2 = "<sc" + "ript src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' integrity='sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl' crossorigin='anonymous'></s" +"cript>";
   var script3 = "<sc" + "ript src='https://code.jquery.com/jquery-3.2.1.slim.min.js' integrity='sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN' crossorigin='anonymous'></sc" + "ript>";
   var script4 = "<sc" + "ript src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js' integrity='sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q' crossorigin='anonymous'></s" +"cript>";
-  var navbar = "";
-  var body = "";
-  var footer = "";
-  var curr = navbar + body + footer;
-  if (!curr){
-    $("#newPage").attr('srcdoc', script1 + script2 + script3 + script4 + "<div><h1>Wassup</h1</div>");
-  } else {
-    $("#newPage").attr('srcdoc', script1 + script2 + script3 + script4 + curr);
-  }
 
-
+  $("#newPage").attr('srcdoc', script1 + script2 + script3 + script4 + curr);
 });
-
 </script>
 
 
@@ -46,6 +42,7 @@ $(document).ready(function(){
 <br>
 
 <div class="container">
+  <h2 id="loadingText">Ready to listen.</div>
   <div class = "row">
     <div class="col-md-9">
       <iframe id = "newPage" style="width: 100%; height: 800px; border:1;" srcdoc=""></iframe>
@@ -84,3 +81,21 @@ $(document).ready(function(){
   	<!-- inserting these scripts at the end to be able to use all the elements in the DOM -->
 	<script src="../js/WebAudioRecorder.min.js"></script>
 	<script src="../js/app.js"></script>
+  <script>
+    $("#stopButton").click(function() {
+      $("#loadingText").text("Turning your request into text so it can be parsed...");
+      // Todo: Wait for our rev.ai API call to return 
+      $("#loadingText").text("Giving your text to Dialogflow...");
+      // Todo: wait for the dialogflow API call to return
+      console.log(rerenderInner());
+      $("#loadingText").text("Done!");
+      $("#loadingText").text("Ready to listen.");
+    });
+
+
+    function rerenderInner() {
+      curr = curr + "<div>asdf</div>";
+      $("#newPage").attr('srcdoc', curr);
+      return curr;
+      }
+  </script>
