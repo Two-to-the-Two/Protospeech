@@ -19,7 +19,7 @@ app.post('/dialogflow', function(req, res) {
 	let dfParams = req.body.queryResult.parameters;
 
 	console.log("The user said: " + dfText);
-	console.log(dfParams);
+	// console.log(dfParams);
 
 	switch(dfParams.action) {
 		case "new":
@@ -30,6 +30,9 @@ app.post('/dialogflow', function(req, res) {
 			break;
 		case "changeTagTextColor":
 			changeTagTextColor(dfParams);
+			break;
+		case "changeTagSize":
+			changeTagSize(dfParams);
 			break;
 		default:
 			console.log("PANIC");
@@ -51,11 +54,16 @@ function makeNewTag(tagType) {
 }
 
 function changeTagBackgroundColor(params) {
-	console.log("I want to change the background color of a " + params.tag + " tag to " + params.newColor);
+	console.log("I want to change the background color of a " + params.tag + " tag to " + params.newColor + ".");
 	return;
 }
 
 function changeTagTextColor(params) {
-	console.log("I want to change the text color of a " + params.tag + " tag to " + params.newColor);
+	console.log("I want to change the text color of a " + params.tag + " tag to " + params.newColor + ".");
+	return;
+}
+
+function changeTagSize(params) {
+	console.log("I want to change the size of a " + params.tag + " to be " + params.sizeChange + ".");
 	return;
 }
