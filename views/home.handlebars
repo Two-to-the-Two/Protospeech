@@ -2,6 +2,9 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/binaryjs/0.2.1/binary.min.js"></script>
+<script src="../js/recorder.js"></script>
+
 
 <script>
 $(document).ready(function(){
@@ -23,7 +26,6 @@ $(document).ready(function(){
 });
 
 </script>
-
 
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -58,8 +60,8 @@ $(document).ready(function(){
       	</select>
       	</p>
       	<div id="controls">
-      		<button id="recordButton">Record</button>
-      		<button id="stopButton" disabled>Stop</button>
+          <button onclick="startRecording()">Start Recording</button>
+          <button onclick="stopRecording()">Stop Recording</button>
       	</div>
       	<div id="formats"></div>
       	<h3>Log</h3>
@@ -82,5 +84,3 @@ $(document).ready(function(){
 
 
   	<!-- inserting these scripts at the end to be able to use all the elements in the DOM -->
-	<script src="../js/WebAudioRecorder.min.js"></script>
-	<script src="../js/app.js"></script>
