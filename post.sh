@@ -1,0 +1,1 @@
+curl -X POST "https://api.rev.ai/revspeech/v1beta/jobs" -H "Authorization: Bearer 01Ci_bKCjum7QV5VhzQjf2W-U1gJJBbVxiZPXy7X88yaU66AoTHiEeVGuRFrt7-C3jUAwdDXwY02qk2_RxL6GcqGq4LYg" -H "Content-Type: multipart/form-data" -F "media=@/Users/jorgenario/Desktop/short1.mp3;type=audio/mp3" -F "options={\"metadata\":\"This is a sample submit jobs option for multipart\"}"

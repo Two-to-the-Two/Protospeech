@@ -4,6 +4,8 @@ var bodyParser = require("body-parser");
 var BinaryServer = require("binaryjs").BinaryServer;
 var fs = require("fs");
 var wav = require("wav");
+var exec = require('child_process').exec;
+
 const Lame = require("node-lame").Lame;
 var request = require("request");
 
@@ -113,6 +115,15 @@ binaryServer.on("connection", function(client) {
     stream.on("end", function() {
       fileWriter.end();
       console.log("wrote to file " + outFile);
+        var yourscript = exec('sh post.sh',
+            (error, stdout, stderr) => {
+            console.log(`${stdout}`);
+        console.log(`${stderr}`);
+        if (error !== null) {
+            console.log(`exec error: ${error}`);
+        }
+    });
+      /*
       request.post(
         {
           headers: {
@@ -129,6 +140,7 @@ binaryServer.on("connection", function(client) {
           console.log(body);
         }
       );
+      */
     });
   });
 });
