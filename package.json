@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/Two-to-the-Two/Protospeech#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "jquery": "^3.3.1"
   }
 }
